@@ -1,5 +1,5 @@
 #!/bin/bash
-SOURCE="./myfiles/"
+SOURCE="./orus-ground-truth/"
 lang=rus
 set -- "$SOURCE"*.png
 for img_file; do
